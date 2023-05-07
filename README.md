@@ -25,13 +25,14 @@ After writing [The Blockspace Race — Perform my Celestia light node](https://m
 
 ## Installation
 
-1. Clone this repo
+### Clone this repo
 ```
 cd
 git clone https://github.com/ch-und/celestia-monitoring-tool.git
 ```
 
-2. Install docker
+### Install docker
+You need docker to deploy this project. So, you can run this command:
 ```
 bash $HOME/celestia-monitoring-tool/utils/install_docker.sh
 ```
