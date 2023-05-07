@@ -48,3 +48,10 @@ sudo docker compose up -d
 
 Open in browser http://<your_server_ip>:3000 <br>
 default credentials: admin/admin
+
+## Demo
+
+You can view my dashboard at:
+http://193.30.120.228:3000/
+Username: celestia
+Password: celestia
