@@ -22,3 +22,16 @@ After writing [The Blockspace Race — Perform my Celestia light node](https://m
 - Out of disk space (<10%)
 - Out of disk space within 24h
 - High CPU load (>85%)
+
+## Installation
+
+1. Clone this repo
+```
+cd
+git clone https://github.com/ch-und/celestia-monitoring-tool.git
+```
+
+2. Install docker
+```
+bash $HOME/celestia-monitoring-tool/utils/install_docker.sh
+```
